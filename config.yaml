@@ -1,0 +1,13 @@
+num_classes: 10
+input_dim: 64
+time_length: 345
+conv1_outdim: 128
+conv2_outdim: 256
+conv3_outdim: 512
+conv4_outdim: 1024
+kernel_size: 2
+dropout: 0.1
+padding: 1
+stride: 1
+learning_rate: 0.0001
+epochs: 60
